@@ -10,5 +10,8 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/android-support-fragment"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/android-support-animated-vector-drawable"/>
 	<classpathentry exported="true" kind="lib" path="classes/android-support-v7-appcompat.jar" sourcepath="classes/android-support-v7-appcompat-sources.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/android-support-compat"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/android-support-core-ui"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/android-support-media-compat"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
