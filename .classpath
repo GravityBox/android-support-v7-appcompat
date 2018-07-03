@@ -4,14 +4,9 @@
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/android-support-annotations"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/android-support-vector-drawable"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/android-support-core-utils"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/android-support-fragment"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/android-support-animated-vector-drawable"/>
 	<classpathentry exported="true" kind="lib" path="classes/android-support-v7-appcompat.jar" sourcepath="classes/android-support-v7-appcompat-sources.jar"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/android-support-compat"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/android-support-core-ui"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/android-support-media-compat"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/android-support-v4"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
